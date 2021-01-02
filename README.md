@@ -1,0 +1,1 @@
+All exercises from the 'Introduction to Programming with Ruby' book from Launchschool.
